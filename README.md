@@ -7,7 +7,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 
 ### Screenshot
-
+![Alt card image](./assets/images/Screenshot%202024-05-15%20at%201.32.59 PM.png)
 
 ### Links
 
@@ -15,24 +15,17 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## My process
 
+1. Break down the design into workable and stylable HTML pieces.
+2. Style the structured HTML
+
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- CSS
 - Flexbox
-- CSS Grid
-
-
-### What I learned
-
 
 ### Continued development
 
-
-### Useful resources
-
+I would like to start structuring the html more effectively, so that the styling becomes easier. I also would like to start using landmarks as well as media queries to incorporate responsive design.
 
 
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)

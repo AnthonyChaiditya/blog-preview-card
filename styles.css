@@ -18,6 +18,7 @@ section {
   border-radius: 3%;
   border-bottom: 5px solid black;
   border-right: 5px solid black;
+  min-width: 50%;
 }
 
 p {
